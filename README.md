@@ -76,6 +76,10 @@ Because we can't really have all this hardware in the middle of the living room 
 
 ![HASPAS_SYSTEM](https://raw.githubusercontent.com/eladshabo/Has_Pas/master/images/3d_printed_box.jpg)
 
+## Installation
+Installing the system only requires to place the IR LED somewhere in front of the TV (but high enough so no one could block the signal) and connect the Arduino to 5V charger. That's all.
+![Haspas_installed](https://raw.githubusercontent.com/eladshabo/Has_Pas/master/images/IR_installed.jpg)
+
 # Alternative
 
 There is another alternative though, in case of LG TV.
