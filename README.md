@@ -3,9 +3,9 @@
 
 ## What is it?
 HAS-PAS is a simple automation system for putting the TV on mute while the landline is in-use. 
-Or, simply: 
-:telephone_receiver: :arrow_right: :mute: :tv:
-:telephone_receiver: :x: :arrow_right: :loud_sound: :tv:
+<br>Or, simply: 
+1. :telephone_receiver: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_right: &nbsp;&nbsp; :mute: :tv:
+2. :telephone_receiver: :x: &nbsp;&nbsp; :arrow_right: &nbsp;&nbsp; :loud_sound: :tv:
 
 (Originally named by my uncle, HAS=quite ,PAS=line (Hebrew-named))
 
